@@ -1,4 +1,4 @@
-![](https://www.angularjs.org/img/AngularJS-large.)
+![](http://www.angularjs.org/img/AngularJS-large.png)
 
 [LIVE DEMO](http://thenocklist.com/gaming/puzzle/angular-puzzle-master/app/index2.html)
 
